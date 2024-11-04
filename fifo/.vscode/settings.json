@@ -1,0 +1,3 @@
+{
+    "verilog.linting.verilator.includePath": ["src/", "tb/", "assertions/"],
+}
